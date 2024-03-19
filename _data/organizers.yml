@@ -6,10 +6,10 @@
 - name: Bork, Dominik
   image: dominik.jpg
   affiliation: TU Wien, Austria
-  website: 
+  website: https://model-engineering.info/
   order: 2
 - name: Michael, Judith
   image: judith.jpeg
   affiliation: RWTH Aachen, Germany
-  website: 
+  website: https://www.se-rwth.de/staff/Judith.Michael
   order: 3
