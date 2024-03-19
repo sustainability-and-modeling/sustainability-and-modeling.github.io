@@ -5,7 +5,7 @@ permalink: /
 order: 0
 ---
 
-![howcom](/assets/logo.png)
+![susmod](/assets/logo.png)
 
 <div style="text-align: right">
   <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS</a></p>
