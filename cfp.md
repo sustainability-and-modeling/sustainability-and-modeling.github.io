@@ -28,7 +28,7 @@ The topics of interest include, but are not limited to:
 
 We solicit the following types of papers.
 - *Full research papers* (max. 10 pages): novel research contributions.
-- *Short papers* (max. 5 pages), including (a) *Work in progress*: preliminary results; (b) *Vision papers*: new visions and strategic ideas; (c) *Case papers: description of real-life sustainability problems.
+- *Short papers* (max. 5 pages), including (a) *Work in progress*: preliminary results; (b) *Vision papers*: new visions and strategic ideas; (c) *Case papers*: description of real-life sustainability problems.
 
 All submitted papers must adhere to the [ACM Conference](https://www.acm.org/publications/proceedings-template) format.
 
