@@ -8,7 +8,7 @@ order: 5
 # Call for Papers
 
 
-## **Topics of interest**
+### **Topics of interest**
 
 The topics of interest include, but are not limited to:
 
@@ -24,7 +24,7 @@ The topics of interest include, but are not limited to:
   - Social sustainability, e.g., inclusive modeling practices, participatory modeling in diverse environments, human factors in modeling.
 
 
-## **Paper format**
+### **Paper format**
 
 We solicit the following types of papers.
 - *Full research papers* (max. 10 pages): novel research contributions.
@@ -36,12 +36,12 @@ LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst withou
 
 <!-- An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available. -->
 
-## **Submission**
+### **Submission**
 Manuscripts are to be submitted electronically through the [SusMod EasyChair](https://easychair.org/my/conference?conf=susmod2024) web page.
 All submissions will be reviewed by at least 3 members of the program committee. 
 
-## **Presentations**
+### **Presentations**
 Authors of each accepted paper will be invited to give a *regular* talk.
 
-## **Proceedings**
+### **Proceedings**
 Accepted papers are intended to be published in the MODELS Companion proceedings and the workshop website. To be published in the proceedings, at least one author of accepted papers must present their work at the workshop.
