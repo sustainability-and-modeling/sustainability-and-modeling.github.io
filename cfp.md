@@ -28,7 +28,7 @@ The topics of interest include, but are not limited to:
 
 We solicit the following types of papers.
 - *Full research papers* (max. 10 pages): novel research contributions.
-- *Short papers* (max. 5 pages), including (a) *Work in progress*: preliminary results; (b) *Vision papers*: new visions and strategic ideas; (c) *Case papers: description of real-life sustainability problems.
+- *Short papers* (max. 5 pages), including (a) *Work in progress*: preliminary results; (b) *Vision papers*: new visions and strategic ideas; (c) *Case papers*: description of real-life sustainability problems.
 
 All submitted papers must adhere to the [ACM Conference](https://www.acm.org/publications/proceedings-template) format.
 
@@ -42,4 +42,4 @@ All submissions will be reviewed by at least 3 members of the program committee.
 Authors of each accepted paper will be invited to give a *regular* talk.
 
 ### **Proceedings**
-Accepted papers are intended to be published in the MODELS Companion proceedings and the workshop website. To be published in the proceedings, at least one author of accepted papers must present their work at the workshop.
+Accepted papers are intended to be published in the [MODELS](https://conf.researchr.org/home/models-2024) Companion proceedings and the workshop website. To be published in the proceedings, at least one author of accepted papers must present their work at the workshop.
