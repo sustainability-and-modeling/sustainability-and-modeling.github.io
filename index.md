@@ -8,11 +8,19 @@ order: 1
  <img src="/assets/susmod-header.png" alt="SusMod" class="center"><br/>
 </div>
 
-<div style="text-align: center">
-  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'24</a></p>
-  <p>22-24 September, 2024<br/>
-  Linz, Austria</p>
-  <br/>
+<div style="overflow: hidden;padding: 25px 25px 25px 0;">
+
+	<div style="text-align: left;float:left;">
+	  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'24</a></p>
+	  <p>22-24 September, 2024<br/>
+	  Linz, Austria</p>
+	</div>
+
+	<div style="text-align: center;float:right;">
+	 <!-- <form action="https://easychair.org/my/conference?conf=susmod2024" method="get" target="_blank"><button type="submit" class="button-submit" >Submit your paper now!</button></form> -->
+	 <br/>
+	</div>
+
 </div>
 
 ## What is SusMod?
