@@ -17,7 +17,7 @@ order: 1
 	</div>
 
 	<div style="text-align: center;float:right;">
-	 <!-- <form action="https://easychair.org/my/conference?conf=susmod2024" method="get" target="_blank"><button type="submit" class="button-submit" >Submit your paper now!</button></form> -->
+	 <form action="https://easychair.org/my/conference?conf=susmod2024" method="get" target="_blank"><button type="submit" class="button-submit" >Submit your paper now!</button></form>
 	 <br/>
 	</div>
 
