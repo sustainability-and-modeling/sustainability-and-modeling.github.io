@@ -14,7 +14,7 @@ The topics of interest include, but are not limited to:
 
 - MDE *for* sustainability
   - Modeling languages, formalisms, and methods to tackle the complexity of sustainability through the mechanism of abstraction;
-  - Code generation and model interpretation for sustainability metrics;
+  - Digital twins for sustainability
   - Multi-paradigm, multi-view, and multi-level modeling for sustainability;
   - Collaborative modeling for sustainability
 - Sustainability *of* MDE
