@@ -14,6 +14,7 @@ order: 1
     </div>
     <div class="announcement-date">
     </div>
+	<br/>
 </div>
 
 <div>
