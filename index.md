@@ -5,6 +5,18 @@ permalink: /
 order: 1
 ---
 
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
+        [16.07.2024.] The submission deadline has passed. Thank you for your submissions to this year's SusMod. The PC will now review your submissions and we'll notify you by August 7.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
+<!--
 <div class="important">
     <div class="announcement-type">
         IMPORTANT NEWS
@@ -16,6 +28,7 @@ order: 1
     </div>
 	<br/>
 </div>
+-->
 
 <div>
  <img src="/assets/susmod-header.png" alt="SusMod" class="center"><br/>
