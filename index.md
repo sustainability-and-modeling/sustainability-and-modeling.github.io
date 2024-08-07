@@ -53,11 +53,12 @@ order: 1
 	  Linz, Austria</p>
 	</div>
 
+<!--
 	<div style="text-align: center;float:right;">
 	 <form action="https://easychair.org/conferences/?conf=susmod2024" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
 	 <br/>
 	</div>
-
+-->
 </div>
 
 ## What is SusMod?
