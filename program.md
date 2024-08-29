@@ -12,8 +12,8 @@ order: 2
 <h3>PM1: MDE for sustainability</h3>
 <ul>
     <li>14:30-14:40&nbsp;&nbsp;<i>Opening</i></li>
-    <li>15:05-15:30&nbsp;&nbsp;<i>Cross-Detection of Mobile-specific Energy Hotspots: MBSE to the Rescue</i> by Léa Brunschwig and Olivier Le Goaër</li>
-    <li>14:40-15:05&nbsp;&nbsp;<i>Waste Management Through Digital Twins and Business Process Modeling</i> by Amleto Di Salle, Arianna Fedeli, Ludovico Iovino, Leonardo Mariani, Daniela Micucci, Luciana Rebelo, and Maria Teresa Rossi</li>
+    <li>14:40-15:05&nbsp;&nbsp;<i>Cross-Detection of Mobile-specific Energy Hotspots: MBSE to the Rescue</i> by Léa Brunschwig and Olivier Le Goaër</li>
+    <li>15:05-15:30&nbsp;&nbsp;<i>Waste Management Through Digital Twins and Business Process Modeling</i> by Amleto Di Salle, Arianna Fedeli, Ludovico Iovino, Leonardo Mariani, Daniela Micucci, Luciana Rebelo, and Maria Teresa Rossi</li>
 </ul>
 
 <h3>Coffee break and discussion</h3>
