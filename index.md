@@ -10,13 +10,26 @@ order: 1
         LATEST NEWS
     </div>
     <div class="announcement-content">
+        [29.08.2024.] The program of the workshop has been announced and is available <a href="/program">here</a>.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
+
+<!--
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
         [06.08.2024.] Workshop dates are now final; we'll organize SusMod on Monday, 23 September, 2024.
     </div>
     <div class="announcement-date">
     </div>
 </div>
 
-<!--
+
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS
