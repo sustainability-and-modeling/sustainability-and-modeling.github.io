@@ -9,6 +9,8 @@ order: 2
 
 <h1>Program</h1>
 
+The workshop will take place in the PM sessions of the day. We will start later in the PM1 session, and finish earlier in the PM2 session, with two talks in each of the sessions. Between the two sessions, we will use the coffee break for discussions.
+
 <h3>PM1: MDE for sustainability</h3>
 <ul>
     <li>14:30-14:40&nbsp;&nbsp;<i>Opening</i></li>
