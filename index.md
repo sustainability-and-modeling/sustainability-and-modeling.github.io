@@ -10,7 +10,8 @@ order: 1
         LATEST NEWS
     </div>
     <div class="announcement-content">
-        [29.08.2024.] The program of the workshop has been announced and is available <a href="/program">here</a>.
+        <br/>
+	    [29.08.2024.] The program of the workshop has been announced and is available <a href="/program">here</a>.
     </div>
     <div class="announcement-date">
     </div>
