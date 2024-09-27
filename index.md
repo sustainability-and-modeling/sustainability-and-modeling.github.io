@@ -10,7 +10,7 @@ order: 1
         LATEST NEWS
     </div>
     <div class="announcement-content">
-        <br/>[29.08.2024.] The program of the workshop has been announced and is available <a href="/program">here</a>.
+        <br/>[28.09.2024.] The organizers would thank the authors and speakers, as well as the audience. We believe the workshop was an excellent starting point for bringing sustainability to MODELS. We hope to see you in future editions, perhaps even in more involved roles, as we look to shape the sustainability community together.
     </div>
     <div class="announcement-date">
     </div>
@@ -18,6 +18,17 @@ order: 1
 
 
 <!--
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
+        <br/>[29.08.2024.] The program of the workshop has been announced and is available <a href="/program">here</a>.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS
