@@ -3,13 +3,13 @@
   affiliation: McMaster University, Canada
   website: http://istvandavid.com/
   order: 1
-- name: Bork, Dominik
-  image: dominik.jpg
-  affiliation: TU Wien, Austria
-  website: https://model-engineering.info/
+- name: Fedeli, Arianna
+  image: arianna.jpg
+  affiliation: GSSI, Italy
+  website: https://www.gssi.it/people/post-doc/post-doc-computer-science/item/25347-fedeli-arianna
   order: 2
-- name: Michael, Judith
-  image: judith.jpeg
-  affiliation: RWTH Aachen, Germany
-  website: https://www.se-rwth.de/staff/Judith.Michael
+- name: Stoico, Vincenzo
+  image: vincenzo.jpeg
+  affiliation: VU Amsterdam, The Netherlands
+  website: https://research.vu.nl/en/persons/vincenzo-stoico
   order: 3

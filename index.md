@@ -5,66 +5,6 @@ permalink: /
 order: 1
 ---
 
-<div class="info">
-    <div class="announcement-type">
-        LATEST NEWS
-    </div>
-    <div class="announcement-content">
-        <br/>[28.09.2024.] The organizers would thank the authors and speakers, as well as the audience. We believe the workshop was an excellent starting point for bringing sustainability to MODELS. We hope to see you in future editions, perhaps even in more involved roles, as we look to shape the sustainability community together.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-
-<!--
-<div class="info">
-    <div class="announcement-type">
-        LATEST NEWS
-    </div>
-    <div class="announcement-content">
-        <br/>[29.08.2024.] The program of the workshop has been announced and is available <a href="/program">here</a>.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-<div class="info">
-    <div class="announcement-type">
-        LATEST NEWS
-    </div>
-    <div class="announcement-content">
-        [06.08.2024.] Workshop dates are now final; we'll organize SusMod on Monday, 23 September, 2024.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-
-<div class="info">
-    <div class="announcement-type">
-        LATEST NEWS
-    </div>
-    <div class="announcement-content">
-        [16.07.2024.] The submission deadline has passed. Thank you for your submissions to this year's SusMod. The PC will now review your submissions and we'll notify you by August 7.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-<div class="important">
-    <div class="announcement-type">
-        IMPORTANT NEWS
-    </div>
-    <div class="announcement-content">
-        [28.06.2024.] The submission deadline has been extended by 10 days to **July 15**. Details <a href="/dates" style="color:white;text-decoration:underline;">here</a>.
-    </div>
-    <div class="announcement-date">
-    </div>
-	<br/>
-</div>
--->
-
 <div>
  <img src="/assets/susmod-header.png" alt="SusMod" class="center"><br/>
 </div>
@@ -72,14 +12,14 @@ order: 1
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
 
 	<div style="text-align: left;float:left;">
-	  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'24</a></p>
-	  <p>23 September, 2024<br/>
-	  Linz, Austria</p>
+	  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></p>
+	  <p>2025 October<br/>
+	  Ann Arbor, MI, USA</p>
 	</div>
 
 <!--
 	<div style="text-align: center;float:right;">
-	 <form action="https://easychair.org/conferences/?conf=susmod2024" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
+	 <form action="https://easychair.org/conferences/?conf=susmod2025" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
 	 <br/>
 	</div>
 -->
