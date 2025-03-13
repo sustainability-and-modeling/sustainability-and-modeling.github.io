@@ -3,7 +3,7 @@
         <!-- {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%} -->
         <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
-        {% if page.url != "/" %}
+        {% if (page.url != "/") or (site.url contains "previous_editions") %}
             <a class="site-title" href="/"><img style="padding:5px 0 5px 0;" src="/assets/logo.png" height="50"></a>
         {% endif %}
         
