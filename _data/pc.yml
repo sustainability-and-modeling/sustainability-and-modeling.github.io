@@ -16,9 +16,11 @@
 - name: NAKAGAWA, Elisa Yumi
   affiliation: University of Sao Paulo, Brazil
   website: https://sites.icmc.usp.br/elisa/
+- name: WAUTELET, Yves
+  affiliation: KU Leuven, Belgium
+  website: https://www.kuleuven.be/wieiswie/nl/person/00071732
 
-
-====
+#####
 
 - name: GRUNDY, John
   affiliation: Monash University, Australia
@@ -29,6 +31,3 @@
 - name: SALLOU, June
   affiliation: TU Delft, the Netherlands
   website: https://jnsll.github.io/
-- name: WAUTELET, Yves
-  affiliation: KU Leuven, Belgium
-  website: https://www.kuleuven.be/wieiswie/nl/person/00071732
