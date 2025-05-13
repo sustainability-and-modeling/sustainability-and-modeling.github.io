@@ -1,39 +1,34 @@
-- name: CHITCHYAN, Ruzanna
-  affiliation: University of Bristol, UK
-  website: https://www.bristol.ac.uk/people/person/Ruzanna-Chitchyan-6aa22196-7b4f-4b06-ad2c-6f2a3dffc294/
-- name: ESHUIS, Rik
-  affiliation: TU Eindhoven, the Netherlands
-  website: https://www.tue.nl/en/research/researchers/rik-eshuis
-- name: ESPAÑA, Sergio
-  affiliation: Utrecht Unviersity, the Netherlands
-  website: https://www.uu.nl/staff/SEspanaCubillo
-- name: GROHER, Iris
-  affiliation: JKU Linz, Austria
-  website: https://se.jku.at/iris-groher/
-- name: GRUNDY, John
-  affiliation: Monash University, Australia
-  website: https://sites.google.com/site/johncgrundy
-- name: GUIZZARDI, Giancarlo
-  affiliation: University of Twente, the Netherlands
-  website: https://people.utwente.nl/g.guizzardi
-- name: MAZAK-HUEMER, Alexandra
-  affiliation: Austrian Council for Research and Technology Development, Austria
-  website: https://se.jku.at/alexandra-mazak-huemer/
+- name: AYOOLA, Bimpe
+  affiliation: Dalhousie University, Canada
+  website: 
+- name: BASCIANI, Francesco
+  affiliation: Gran Sasso Science Institute (GSSI), Italy
+  website: https://www.gssi.it/people/professors/lectures-computer-science/item/21616-basciani-francesco
+- name: FILIPPONE, Gianluca
+  affiliation: Gran Sasso Science Institute (GSSI), Italy
+  website: https://gianlucafilippone.github.io/
+- name: SCOCCIA, Gian Luca
+  affiliation: Gran Sasso Science Institute (GSSI), Italy
+  website: https://gianlucascoccia.github.io/
+- name: MICHAEL, Judith
+  affiliation: University of Regensburg, Germany
+  website: https://judithmichael.github.io/
 - name: NAKAGAWA, Elisa Yumi
   affiliation: University of Sao Paulo, Brazil
   website: https://sites.icmc.usp.br/elisa/
+
+
+====
+
+- name: GRUNDY, John
+  affiliation: Monash University, Australia
+  website: https://sites.google.com/site/johncgrundy
 - name: RUCHKIN, Ivan
   affiliation: University of Florida
   website: https://ivan.ece.ufl.edu/
-- name: PROPER, Hend<i>erik</i>
-  affiliation: TU Wien, Austria
-  website: https://www.erikproper.eu/
 - name: SALLOU, June
   affiliation: TU Delft, the Netherlands
   website: https://jnsll.github.io/
-- name: RUBEI, Riccardo
-  affiliation: Università Degli Studi Dell'Aquila, Italy
-  website: https://www.linkedin.com/in/riccardo-rubei-a61122283
 - name: WAUTELET, Yves
   affiliation: KU Leuven, Belgium
   website: https://www.kuleuven.be/wieiswie/nl/person/00071732
