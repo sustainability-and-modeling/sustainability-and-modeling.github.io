@@ -14,15 +14,14 @@ order: 1
 	<div style="text-align: left;float:left;">
 	  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></p>
 	  <p>2025 October<br/>
-	  Ann Arbor, MI, USA</p>
+	  Grand Rapids, MI, USA</p>
 	</div>
 
-<!--
+
 	<div style="text-align: center;float:right;">
 	 <form action="https://easychair.org/conferences/?conf=susmod2025" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
 	 <br/>
 	</div>
--->
 </div>
 
 ## What is SusMod?
