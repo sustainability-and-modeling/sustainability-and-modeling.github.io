@@ -40,7 +40,7 @@ IEEE requires the use of ORCIDs. LaTeX users should use the orcidlink package, `
 Please note the [IEEE Authors Rights and Responsibilities](https://www.ieee.org/publications/rights/author-rights-responsibilities.html).
 
 ### **Submission**
-Manuscripts are to be submitted electronically through the [SusMod EasyChair](https://easychair.org/my/conference?conf=susmod25) web page.
+Manuscripts are to be submitted electronically through the [SusMod EasyChair](https://easychair.org/my/conference?conf=susmod2025) web page.
 All submissions will be reviewed by at least 3 members of the program committee. 
 
 ### **Presentations**
