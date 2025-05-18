@@ -19,7 +19,7 @@ order: 1
 
 
 	<div style="text-align: center;float:right;">
-	 <form action="https://easychair.org/conferences/?conf=susmod25" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
+	 <form action="https://easychair.org/conferences/?conf=susmod2025" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
 	 <br/>
 	</div>
 </div>
