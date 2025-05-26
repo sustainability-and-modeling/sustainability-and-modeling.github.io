@@ -23,8 +23,8 @@ order: 10
 </div>
 
 <h1>Program Committee</h1>
-TBA
-<!--
+
+<!-- TBA -->
 <ul>
 {% for pcmember in pc %}
     {% assign names = pcmember.name | split: ", " %}
@@ -33,4 +33,3 @@ TBA
     <li><a href="{{ pcmember.website }}">{{ fullname }}</a>, {{pcmember.affiliation}}</li>
 {% endfor %}
 </ul>
--->
