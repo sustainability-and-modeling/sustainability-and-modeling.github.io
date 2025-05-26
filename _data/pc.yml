@@ -4,30 +4,33 @@
 - name: BASCIANI, Francesco
   affiliation: Gran Sasso Science Institute (GSSI), Italy
   website: https://www.gssi.it/people/professors/lectures-computer-science/item/21616-basciani-francesco
+- name: CALERO, Coral
+  affiliation: University of Castilla-La Mancha, Spain
+  website: https://scholar.google.de/citations?user=1YD0jqAAAAAJ&hl=en
+- name: CAPUANO, Roberta
+  affiliation: Università Degli Studi Dell'Aquila, Italy
+  website: https://scholar.google.com/citations?user=Yg0-UdYAAAAJ&hl=it
+- name: COMBEMALE, Benoit
+  affiliation: University of Rennes, France
+  website: https://people.irisa.fr/Benoit.Combemale/
 - name: FILIPPONE, Gianluca
   affiliation: Gran Sasso Science Institute (GSSI), Italy
   website: https://gianlucafilippone.github.io/
-- name: SCOCCIA, Gian Luca
-  affiliation: Gran Sasso Science Institute (GSSI), Italy
-  website: https://gianlucascoccia.github.io/
+- name: FUNKE, Markus
+  affiliation: Vrije Universiteit Amsterdam, The Netherlands
+  website: https://research.vu.nl/en/persons/markus-funke
+- name: MARSSO, Lina
+  affiliation: Polytechnique Montreal, Canada
+  website: https://lina.marsso.net/
 - name: MICHAEL, Judith
   affiliation: University of Regensburg, Germany
   website: https://judithmichael.github.io/
 - name: NAKAGAWA, Elisa Yumi
   affiliation: University of Sao Paulo, Brazil
   website: https://sites.icmc.usp.br/elisa/
+- name: SCOCCIA, Gian Luca
+  affiliation: Gran Sasso Science Institute (GSSI), Italy
+  website: https://gianlucascoccia.github.io/
 - name: WAUTELET, Yves
   affiliation: KU Leuven, Belgium
   website: https://www.kuleuven.be/wieiswie/nl/person/00071732
-
-#####
-
-- name: GRUNDY, John
-  affiliation: Monash University, Australia
-  website: https://sites.google.com/site/johncgrundy
-- name: RUCHKIN, Ivan
-  affiliation: University of Florida
-  website: https://ivan.ece.ufl.edu/
-- name: SALLOU, June
-  affiliation: TU Delft, the Netherlands
-  website: https://jnsll.github.io/
