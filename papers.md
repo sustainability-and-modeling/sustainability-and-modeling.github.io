@@ -16,3 +16,7 @@ This year, we only accepted one paper.
     {% endfor %}
   </ul>
 </div>
+
+In addition, we have accepted one flash talk.
+
+<li><b>Ethical and Sustainable AI? Lessons from Participatory Modeling</b><br/>by Laura Schmitt Olabisi, Jennifer Helgeson, and Rebecca Jordan</li>
