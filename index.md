@@ -11,11 +11,11 @@ order: 1
 
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
 
-	<div style="text-align: left;float:left;">
-	  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></p>
-	  <p>2025 October<br/>
-	  <b>Fully online</b> (Formally: Grand Rapids, MI, USA)</p>
-	</div>
+<div style="text-align: left;float:left;">
+  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></p>
+  <p>2025 October<br/>
+  <b>Fully online</b> (Formally: Grand Rapids, MI, USA)</p>
+</div>
 
 <!--
 	<div style="text-align: center;float:right;">
@@ -25,16 +25,7 @@ order: 1
 -->
 </div>
 
-<div class="important">
-    <div class="announcement-type">
-        IMPORTANT NEWS
-    </div>
-    <div class="announcement-content">
-        [Aug 08, 2025] The event will part of the <b>International Joint Workshop on Modeling Language Engineering (MLE) and Sustainability and Modeling (SusMod)</b>, held together with the <a href="https://mleworkshop.github.io/editions/mle2025/">Workshop on Modeling Language Engineering (MLE)</a>.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
+
 
 ## What is SusMod?
 
