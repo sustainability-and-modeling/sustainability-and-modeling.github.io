@@ -6,7 +6,7 @@ order: 1
 ---
 
 <div>
- <img src="/assets/susmod2026-1200.png" alt="SusMod" class="center"><br/>
+ <img src="/assets/susmod2026-banner.png" alt="SusMod" class="center"><br/>
 </div>
 
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
