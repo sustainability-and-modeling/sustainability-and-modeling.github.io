@@ -6,15 +6,15 @@ order: 1
 ---
 
 <div>
- <img src="/assets/susmod-header-2025.jpg" alt="SusMod" class="center"><br/>
+ <img src="/assets/susmod2026-1200.png" alt="SusMod" class="center"><br/>
 </div>
 
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
 
 <div style="text-align: left;float:left;">
-  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></p>
-  <p>2025 October<br/>
-  <b>Fully online</b> (Formally: Grand Rapids, MI, USA)</p>
+  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'26</a></p>
+  <p>October 2026<br/>
+  Malaga, Spain</p>
 </div>
 
 <!--

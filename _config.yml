@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sustainability and Modeling 2025
-email: susmod2025@easychair.org
+title: Sustainability and Modeling 2026
+email: susmod2026@easychair.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -47,8 +47,8 @@ navigation:
 #  url: /program
 - title: Call for Papers
   url: /cfp
-- title: Accepted papers
-  url: /papers
+#- title: Accepted papers
+#  url: /papers
 - title: Important dates
   url: /dates
 - title: Organization
