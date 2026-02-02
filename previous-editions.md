@@ -7,5 +7,5 @@ order: 10
 
 # Previous editions
 
-
-2024 - [1st International Workshop on Sustainability and Modeling](/previous_editions/2024)
+- 2025 - [2nd International Workshop on Sustainability and Modeling](/previous_editions/2025)
+- 2024 - [1st International Workshop on Sustainability and Modeling](/previous_editions/2024)
