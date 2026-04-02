@@ -11,7 +11,7 @@ order: 1
 
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
 
-<div style="text-align: left;float:left;">
+<div style="text-align: left;">
   <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'26</a></p>
   <p>October 2026<br/>
   Malaga, Spain</p>
