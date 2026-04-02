@@ -17,11 +17,16 @@ order: 1
   Malaga, Spain</p>
 </div>
 
+<div style="text-align: center;">
+	Submit your paper now: <a href="https://easychair.org/conferences/?conf=susmod2026">https://easychair.org/conferences/?conf=susmod2026</a>.
+</div>
 
+<!--
 	<div style="text-align: center;float:right;">
 	 <form action="https://easychair.org/conferences/?conf=susmod2026" method="post" target="_blank"><button type="submit" class="button-submit">Submit your paper now!</button></form>
 	 <br/>
 	</div>
+-->
 </div>
 
 
