@@ -38,7 +38,7 @@ LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst withou
 
 ### **Submission**
 Manuscripts are to be submitted electronically through EasyChair. Link TBA.
-<!--: <a href="https://easychair.org/conferences?conf=copamo2026" target="_blank">https://easychair.org/conferences?conf=copamo2026</a>. -->
+<!--: <a href="https://easychair.org/conferences?conf=susmod2026" target="_blank">https://easychair.org/conferences?conf=susmod2026</a>. -->
 All submissions will be reviewed by at least 3 members of the program committee. 
 
 ### **Presentations**
@@ -49,7 +49,7 @@ Accepted papers are intended to be published in the [MODELS](https://conf.resear
 
 ### General regulations
 
-- By submitting to CoPaMo, authors acknowledge that they are aware of and agree to be bound by the ACM Policy and Procedures on Plagiarism. In particular, papers submitted to CoPaMo must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for CoPaMo.
+- By submitting to SusMod, authors acknowledge that they are aware of and agree to be bound by the ACM Policy and Procedures on Plagiarism. In particular, papers submitted to SusMod must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for SusMod.
 
 - By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM’s new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
 
