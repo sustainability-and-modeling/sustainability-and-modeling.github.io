@@ -34,7 +34,7 @@ order: 1
 ## What is SusMod?
 
 Sustainability is becoming a key characteristic of modern systems. While this trend has been long recognized, rigorous formal methods for assessing sustainability, reasoning about often contradicting sustainability properties, and involving the human in this process are missing.
-SusMod, the <b>3rd International Workshop on Sustainability and Modeling</b>, aims to unearth visceral links between sustainability and MDE, and that, in both directions: MDE in support of sustainable systems engineering, and sustainability of MDE techniques.
+SusMod, the <b>International Workshop on Sustainability and Modeling</b>, aims to unearth visceral links between sustainability and MDE, and that, in both directions: MDE in support of sustainable systems engineering, and sustainability of MDE techniques.
 
 ## Who is SusMod for?
 
