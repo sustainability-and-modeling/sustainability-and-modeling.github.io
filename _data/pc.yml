@@ -1,36 +1,24 @@
-- name: AYOOLA, Bimpe
-  affiliation: Dalhousie University, Canada
-  website: https://scholar.google.com/citations?user=7cDyYSUAAAAJ&hl=en&oi=ao
-- name: BASCIANI, Francesco
-  affiliation: Gran Sasso Science Institute (GSSI), Italy
-  website: https://www.gssi.it/people/professors/lectures-computer-science/item/21616-basciani-francesco
 - name: CALERO, Coral
   affiliation: University of Castilla-La Mancha, Spain
   website: https://scholar.google.de/citations?user=1YD0jqAAAAAJ&hl=en
-- name: CAPUANO, Roberta
-  affiliation: Università Degli Studi Dell'Aquila, Italy
-  website: https://scholar.google.com/citations?user=Yg0-UdYAAAAJ&hl=it
-- name: COMBEMALE, Benoit
-  affiliation: University of Rennes, France
-  website: https://people.irisa.fr/Benoit.Combemale/
-- name: FILIPPONE, Gianluca
-  affiliation: Gran Sasso Science Institute (GSSI), Italy
-  website: https://gianlucafilippone.github.io/
-- name: FUNKE, Markus
-  affiliation: Vrije Universiteit Amsterdam, The Netherlands
-  website: https://research.vu.nl/en/persons/markus-funke
-- name: MARSSO, Lina
-  affiliation: Polytechnique Montreal, Canada
-  website: https://lina.marsso.net/
-- name: MICHAEL, Judith
-  affiliation: University of Regensburg, Germany
-  website: https://judithmichael.github.io/
+- name: CLARISÓ, Robert
+  affiliation: Universitat Oberta de Catalunya, Spain
+  website: https://robertclariso.github.io/
+- name: CHITCHYAN, Ruzanna
+  affiliation: University of Bristol, UK
+  website: https://www.bristol.ac.uk/people/person/Ruzanna-Chitchyan-6aa22196-7b4f-4b06-ad2c-6f2a3dffc294/
+- name: GOULÃO, Miguel
+  affiliation: Universidade Nova de Lisboa, Portugal
+  website: https://docentes.fct.unl.pt/mgoul
+- name: LANO, Kevin
+  affiliation: King's College London, UK
+  website: https://www.kcl.ac.uk/people/kevin-lano
 - name: NAKAGAWA, Elisa Yumi
   affiliation: University of Sao Paulo, Brazil
   website: https://sites.icmc.usp.br/elisa/
-- name: SCOCCIA, Gian Luca
-  affiliation: Gran Sasso Science Institute (GSSI), Italy
-  website: https://gianlucascoccia.github.io/
+- name: PEREZ, Quentin
+  affiliation: INSA Rennes, France
+  website: https://qperez.github.io/
 - name: WAUTELET, Yves
   affiliation: KU Leuven, Belgium
   website: https://www.kuleuven.be/wieiswie/nl/person/00071732
