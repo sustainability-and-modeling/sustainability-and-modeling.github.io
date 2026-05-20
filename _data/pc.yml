@@ -1,12 +1,15 @@
 - name: CALERO, Coral
   affiliation: University of Castilla-La Mancha, Spain
   website: https://scholar.google.de/citations?user=1YD0jqAAAAAJ&hl=en
-- name: CLARISÓ, Robert
-  affiliation: Universitat Oberta de Catalunya, Spain
-  website: https://robertclariso.github.io/
 - name: CHITCHYAN, Ruzanna
   affiliation: University of Bristol, UK
   website: https://www.bristol.ac.uk/people/person/Ruzanna-Chitchyan-6aa22196-7b4f-4b06-ad2c-6f2a3dffc294/
+- name: CLARISÓ, Robert
+  affiliation: Universitat Oberta de Catalunya, Spain
+  website: https://robertclariso.github.io/
+- name: COMBEMALE, Benoit
+  affiliation: University of Rennes 1 & Inria, Spain
+  website: https://people.irisa.fr/Benoit.Combemale/
 - name: GOULÃO, Miguel
   affiliation: Universidade Nova de Lisboa, Portugal
   website: https://docentes.fct.unl.pt/mgoul
