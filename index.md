@@ -9,6 +9,15 @@ order: 1
  <img src="/assets/susmod2026-banner.png" alt="SusMod" class="center"><br/>
 </div>
 
+<div class="info">
+    <div class="announcement-type">
+        DEADLINE EXTENDED
+    </div>
+    <div class="announcement-content">
+        [June 30, 2026] We extended the deadline until <b>July 12</b> (Sunday).
+    </div>
+</div>
+
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
 
 <div style="text-align: left;">
