@@ -9,12 +9,22 @@ order: 1
  <img src="/assets/susmod2026-banner.png" alt="SusMod" class="center"><br/>
 </div>
 
+<!--
 <div class="info">
     <div class="announcement-type">
         DEADLINE EXTENDED &nbsp;
     </div>
     <div class="announcement-content">
         [June 30, 2026] We extended the deadline until at least <b>July 10</b> (Friday).
+    </div>
+</div>
+-->
+<div class="info">
+    <div class="announcement-type">
+        ACCEPTED PAPERS &nbsp;
+    </div>
+    <div class="announcement-content">
+        [Aug 5, 2026] The list of accepted papers is now available <a href="/papers">here</a>a.
     </div>
 </div>
 
