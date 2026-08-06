@@ -24,7 +24,7 @@ order: 1
         ACCEPTED PAPERS &nbsp;
     </div>
     <div class="announcement-content">
-        [Aug 5, 2026] The list of accepted papers is now available <a href="/papers">here</a>a.
+        [Aug 5, 2026] The list of accepted papers is now available <a href="/papers">here</a>.
     </div>
 </div>
 
