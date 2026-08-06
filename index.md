@@ -68,6 +68,7 @@ Model-Driven Engineering (MDE) offers a powerful mechanism for managing the inhe
 
 This workshop addresses this gap along two complementary directions: the application of MDE toward engineering sustainable systems (sustainability by MDE), and the investigation of sustainability within MDE practices and tooling themselves (sustainability of MDE). It aims to highlight recent results, consolidate open challenges, and identify research opportunities across both directions, contributing to a shared body of knowledge at this intersection. The workshop welcomes both academic researchers and industrial practitioners working on either or both of these dimensions.
 
+<!--
 ## Topics
 
 MDE for sustainability
@@ -97,3 +98,4 @@ Technology for Sustainability of/with MDE
 - July 31, 2026 - Author notification.
 - August 14, 2026 - Camera ready deadline.
 - October 4-9, 2026 - Workshop.
+-->
