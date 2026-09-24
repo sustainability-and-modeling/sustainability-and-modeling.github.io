@@ -18,13 +18,21 @@ order: 1
         [June 30, 2026] We extended the deadline until at least <b>July 10</b> (Friday).
     </div>
 </div>
--->
 <div class="info">
     <div class="announcement-type">
         ACCEPTED PAPERS &nbsp;
     </div>
     <div class="announcement-content">
         [Aug 5, 2026] The list of accepted papers is now available <a href="/papers">here</a>.
+    </div>
+</div>
+-->
+<div class="info">
+    <div class="announcement-type">
+        WORKSHOP PROGRAM &nbsp;
+    </div>
+    <div class="announcement-content">
+        [Sep 24, 2026] The workshop program is available <a href="/program">here</a>.
     </div>
 </div>
 
