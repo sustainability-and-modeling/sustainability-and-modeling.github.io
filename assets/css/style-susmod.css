@@ -20,9 +20,9 @@
 }
 
 .program-table .time {
-    width: 8em;
+    width: 1%;
     white-space: nowrap;
-    padding-right: 1.5em !important;
+    padding-right: 0.7em !important;
 }
 
 .program-table p {
