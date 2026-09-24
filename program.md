@@ -11,7 +11,7 @@ order: 2
 
 <h3>Session: AM1</h3>
 
-<table style="border: none; border-collapse: collapse;">
+<table class="program-table">
     <tr>
         <td style="border: none; white-space: nowrap; padding-right: 1.5em;">09:15-09:30</td>
         <td style="border: none;">Opening</td>
