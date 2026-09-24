@@ -34,17 +34,36 @@ order: 2
 
 <h3>Session: AM2</h3>
 
-<ul>
-    <li>11:00-11:20: &nbsp; {% include paper.html id=5 %}</li>
-    <li>11:20-11:40: &nbsp; {% include paper.html id=3 %}</li>
-    <li>11:40-12:00: &nbsp; {% include paper.html id=1 %}</li>
-    <li>12:00-12:20: &nbsp; {% include paper.html id=2 %}</li>
-    <li>12:20-12:40: &nbsp; {% include paper.html id=6 %}</li>
-    <li>12:40-13:00: &nbsp; Concluding remarks</li>
-</ul>
+<table class="program-table">
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">11:00-11:20</td>
+        <td style="border: none;">{% include paper.html id=5 %}</td>
+    </tr>
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">11:20-11:40</td>
+        <td style="border: none;">{% include paper.html id=3 %}</td>
+    </tr>
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">11:40-12:00</td>
+        <td style="border: none;">{% include paper.html id=1 %}</td>
+    </tr>
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">12:00-12:20</td>
+        <td style="border: none;">{% include paper.html id=2 %}</td>
+    </tr>
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">12:20-12:40</td>
+        <td style="border: none;">{% include paper.html id=6 %}</td>
+    </tr>
+</table>
 
-10:10-10:30: &nbsp;&nbsp; Lunch
+13:00-14:30: &nbsp;&nbsp; Lunch
 
 <h3>Session: PM</h3>
 
-TBA
+<table class="program-table">
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">14:30-15:45</td>
+        <td style="border: none;">Discussion (Location, topic, format TBA)</td>
+    </tr>
+</table>
