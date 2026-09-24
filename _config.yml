@@ -43,10 +43,10 @@ site-css:
 navigation:
 - title: Home
   url: /
-- title: Accepted papers
-  url: /papers
-#- title: Program
-#  url: /program
+#- title: Accepted papers
+#  url: /papers
+- title: Program
+  url: /program
 - title: Call for Papers
   url: /cfp
 - title: Important dates
