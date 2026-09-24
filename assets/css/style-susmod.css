@@ -1,3 +1,25 @@
+.program-table {
+    border: none;
+    border-collapse: collapse;
+}
+
+.program-table td {
+    border: none;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    vertical-align: top;
+}
+
+.program-table td:first-child {
+    white-space: nowrap;
+    padding-right: 1.5em !important;
+}
+
+/* In case paper.html contains a <p> */
+.program-table p {
+    margin: 0;
+}
+
 div .info{
     display: table;
     background: #d6f7c8;
