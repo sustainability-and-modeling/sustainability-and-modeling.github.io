@@ -16,15 +16,15 @@ order: 2
         <td class="time">09:15-09:30</td>
         <td>Opening</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">09:30-09:50</td>
         <td>{% include paper.html id=8 %}</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">09:50-10:10</td>
         <td>{% include paper.html id=4 %}</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">10:10-10:30</td>
         <td>{% include paper.html id=7 %}</td>
     </tr>
@@ -44,23 +44,23 @@ order: 2
 <h3>Session: AM2</h3>
 
 <table class="program-table">
-    <tr>
+    <tr class="paper-row">
         <td class="time">11:00-11:20</td>
         <td>{% include paper.html id=5 %}</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">11:20-11:40</td>
         <td>{% include paper.html id=3 %}</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">11:40-12:00</td>
         <td>{% include paper.html id=1 %}</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">12:00-12:20</td>
         <td>{% include paper.html id=2 %}</td>
     </tr>
-    <tr>
+    <tr class="paper-row">
         <td class="time">12:20-12:40</td>
         <td>{% include paper.html id=6 %}</td>
     </tr>
