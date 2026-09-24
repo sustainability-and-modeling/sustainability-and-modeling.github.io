@@ -30,7 +30,16 @@ order: 2
     </tr>
 </table>
 
-10:10-10:30&nbsp;&nbsp;Break
+<br/>
+
+<table class="program-table">
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">10:30-11:00</td>
+        <td style="border: none;">Break</td>
+    </tr>
+</table>
+
+<br/>
 
 <h3>Session: AM2</h3>
 
@@ -57,7 +66,16 @@ order: 2
     </tr>
 </table>
 
-13:00-14:30: &nbsp;&nbsp; Lunch
+<br/>
+
+<table class="program-table">
+    <tr>
+        <td style="border: none; white-space: nowrap; padding-right: 1.5em;">13:00-14:30</td>
+        <td style="border: none;">Lunch</td>
+    </tr>
+</table>
+
+<br/>
 
 <h3>Session: PM</h3>
 
