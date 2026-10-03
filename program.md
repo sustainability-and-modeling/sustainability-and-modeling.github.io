@@ -77,11 +77,22 @@ order: 2
 
 <br/>
 
-<h3>Session: PM</h3>
+<h3>Session: PM1</h3>
 
 <table class="program-table">
     <tr>
         <td class="time">14:30-15:45</td>
-        <td>Discussion (Location, topic, format TBA)</td>
+        <td>Discussion based on the <i>Challenges</i> document.<br/>
+            The discussion follows a loosely organized [World Café](https://theworldcafe.com/key-concepts-resources/world-cafe-method/) setup with small group / large group conversations. The aim is to develop a roadmap for the MDE community by identifying topics, challenges, opportunities, and potential solutions. The discussion is open to anyone, really. It is not mandatary to join. It is also not mandatory to have a paper in the program to join. We will share the working document in the morning session, so that we can collaboratively develop it during the first two sessions.
+        </td>
+    </tr>
+</table>
+
+<h3>Session: PM2 (on demand)</h3>
+
+<table class="program-table">
+    <tr>
+        <td class="time">16:15-17:30</td>
+        <td>Continued discussion</td>
     </tr>
 </table>
